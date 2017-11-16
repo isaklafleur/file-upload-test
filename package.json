@@ -2,6 +2,10 @@
   "name": "file-upload-test",
   "version": "0.0.0",
   "private": true,
+  "engines": {
+    "node": "8.9.0",
+    "npm": "5.5.1"
+  },
   "scripts": {
     "start": "node ./bin/www",
     "dev": "nodemon ./bin/www"
